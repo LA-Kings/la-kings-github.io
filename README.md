@@ -1,1 +1,1 @@
-# la-kings-github.io
+# la-kings.github.io
