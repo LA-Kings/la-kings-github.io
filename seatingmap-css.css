@@ -99,6 +99,7 @@ body {
     float: right;
     margin: 0px;  
     position: relative;
+    background-color: #666666;
   }
   
   .MapSectionInfo h2{
@@ -135,7 +136,7 @@ body {
   
   
   .MapSectionInfo .section:hover{
-    background-color: #666666;
+    background-color: #3a3a3a;
     cursor: pointer;
     opacity: 0.9;
   }
