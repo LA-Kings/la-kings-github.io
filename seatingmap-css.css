@@ -94,7 +94,7 @@ body {
   
   
   .MapSectionInfo{
-    width:64%;
+    width:80%;
     margin: 0px 2% 0px 2%;
     float: right;
     margin: 0px;  
@@ -135,7 +135,7 @@ body {
   
   
   .MapSectionInfo .section:hover{
-    background-color: #aa0126;
+    background-color: #666666;
     cursor: pointer;
     opacity: 0.9;
   }
