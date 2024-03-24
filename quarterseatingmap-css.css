@@ -150,7 +150,7 @@ body {
   }
   
   .MapSectionInfo div h1{
-    width: 68%;
+    width: 50%;
     float: left;
     text-align: center;
     font-size: 12pt;
@@ -164,7 +164,7 @@ body {
   }
   
   .MapSectionInfo div p{
-    width: 25%;
+    width: 40%;
     float: left;
     text-align: left;
     font-size: 12pt;
