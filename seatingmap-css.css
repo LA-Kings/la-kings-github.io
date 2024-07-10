@@ -110,7 +110,7 @@ body {
     color: #ffffff;
     font-size: 16pt;
     background-color: transparent;
-    font-family: Rift;
+    font-family: Flama;
     letter-spacing: 2px;
   }
   
@@ -160,8 +160,8 @@ body {
     padding: 5px;
     position: relative;
     color: #fff;
-    font-weight: bold;
-    font-family: Rift;
+    font-weight: medium;
+    font-family: Flama;
   }
   
   .MapSectionInfo div p{
@@ -174,7 +174,7 @@ body {
     text-align: center ;
     font-weight: 200;
     padding: 5px 5px 5px 5px;
-    font-family: Rift;
+    font-family: Flama;
     color:#fff;
   }
   
